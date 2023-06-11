@@ -1,5 +1,3 @@
-# Mews Task
-
 A simple movie search application. The application is responsive on all screen sizes and provides a theme file `utils/theme.ts` to update colors and styles globally.
 
 ## Created with
